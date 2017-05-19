@@ -3,4 +3,11 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="topbar_3">#339EFE</color><!-- 时间选择背景色-->
+    <!-- 通用颜色-->
+    <color name="white">#FFFFFF</color><!--白色 -->
+    <color name="black">#000000</color><!--黑色 -->
+    <color name="linen">#FAF0E6</color><!--亚麻色 -->
+    <color name="gray">#808080</color><!--灰色 -->
 </resources>
